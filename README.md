@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development C Java and pentesting
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on php , javascript or java project
-- 📫 How to reach me through <a href="https://am-portofolio.herokuapp.com"> My Portofolio </a>
+- 📫 How to reach me through <a target="_blank" href="https://am-portofolio.herokuapp.com"> My Portofolio </a>
 - 📫 You can also contact through my <a target="_blan" href="https://www.linkedin.com/in/ahmedmagdy1996/">Linkedin</a>
 
 ## Skills
