@@ -7,7 +7,7 @@
 
 ## Skills
 <img src="https://skillicons.dev/icons?theme=light&i=html,css,js,vuejs,react,nodejs,c,python,java,mysql,mongodb,sqlite"/>
-<img src="asg" onerror="alert(1)" />
+
 <!---
 am1996/am1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
