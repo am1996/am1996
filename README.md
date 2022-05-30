@@ -6,8 +6,8 @@
 - 📫 You can also contact through my <a target="_blan" href="https://www.linkedin.com/in/ahmedmagdy1996/">Linkedin</a>
 
 ## Skills
-<img src="https://skillicons.dev/icons?theme=light&i=html,css,bootstrap,js,vuejs,react,redux,nodejs,php,laravel,c,python,java,mysql,mongodb,sqlite" />
-
+<img src="https://skillicons.dev/icons?theme=light&i=html,css,bootstrap,js,vuejs,react,redux,nodejs,express,c,python,java" />
+<img src="https://skillicons.dev/icons?theme=light&i=php,laravel,mysql,mongodb,sqlite" />
 <!---
 am1996/am1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
