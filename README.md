@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @am1996
 - 👀 I’m interested in web development C C# and pentesting
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Dart and C#
 - 💞️ I’m looking to collaborate on php , javascript or java project
 - 📫 How to reach me through <a target="_blank" href="https://am-portfolio.onrender.com"> My Portofolio </a>
 - 📫 You can also contact through my <a target="_blan" href="https://www.linkedin.com/in/ahmedmagdy1996/">Linkedin</a>
