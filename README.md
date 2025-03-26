@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @am1996
-- 👀 I’m interested in web development C Java and pentesting
+- 👀 I’m interested in web development C C# and pentesting
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on php , javascript or java project
 - 📫 How to reach me through <a target="_blank" href="https://am-portfolio.onrender.com"> My Portofolio </a>
